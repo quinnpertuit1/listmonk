@@ -188,7 +188,7 @@ body {
   color: #111;
 }
 a {
-  color: #7f2aff;
+  color: #69B2E8;
 }
 a:hover {
   color: #111;
@@ -207,7 +207,7 @@ section {
 }
 
 .button {
-  background: #7f2aff;
+  background: #69B2E8;
   padding: 10px 30px;
   border-radius: 3px;
   border: 0;
@@ -222,11 +222,11 @@ section {
 }
 .button.button-outline {
   background: #fff;
-  border: 1px solid #7f2aff;
-  color: #7f2aff;
+  border: 1px solid #69B2E8;
+  color: #69B2E8;
 }
 .button.button-outline:hover {
-  background-color: #7f2aff;
+  background-color: #69B2E8;
   color: #fff;
 }
 
