@@ -28,5 +28,5 @@ export const storeKeys = Object.freeze({
 export const timestamp = 'ddd D MMM YYYY, hh:mm A';
 
 export const colors = Object.freeze({
-  primary: '#7f2aff',
+  primary: '#4c8bf5',
 });
