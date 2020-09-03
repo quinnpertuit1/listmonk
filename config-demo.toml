@@ -6,7 +6,7 @@
 [db]
     host = "demo-db"
     port = 5432
-    user = "listmonk"
-    password = "listmonk"
+    user = "tv"
+    password = "tv"
     database = "listmonk"
     ssl_mode = "disable"
