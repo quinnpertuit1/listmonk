@@ -6,14 +6,14 @@
     # be replaced with a better multi-user, role-based authentication system.
     # IMPORTANT: Leave both values empty to disable authentication on admin
     # only where an external authentication is already setup.
-    admin_username = "listmonk"
-    admin_password = "listmonk"
+    admin_username = "tv"
+    admin_password = "tv"
 
 # Database.
 [db]
     host = "db"
     port = 5432
-    user = "listmonk"
-    password = "listmonk"
+    user = "tv"
+    password = "tv"
     database = "listmonk"
     ssl_mode = "disable"
